@@ -1,7 +1,13 @@
 <component name="ProjectDictionaryState">
   <dictionary name="joan">
     <words>
+      <w>kalman</w>
       <w>lidar</w>
+      <w>pred</w>
+      <w>rhodot</w>
+      <w>xsig</w>
+      <w>yawd</w>
+      <w>zsig</w>
     </words>
   </dictionary>
 </component>
